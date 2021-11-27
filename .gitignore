@@ -1,0 +1,8 @@
+conf/appleKey/
+conf/apple.json
+conf/database.js
+conf/db_conf.json
+conf/secretKey.js
+
+node_modules/
+server/
